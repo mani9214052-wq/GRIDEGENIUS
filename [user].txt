@@ -1,0 +1,3 @@
+[user]
+    name=mani9214052@gmail.com
+    email=mani9214052-wq
